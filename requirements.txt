@@ -1,20 +1,8 @@
-# Flask and Celery for web and background tasks
-Flask
-Flask-Cors
-celery
-redis
-
-# Machine Learning and Data Handling
+flask
+flask_cors
+mysql-connector-python
 sentence-transformers
 scikit-learn
 numpy
-
-# API Clients and Database Connector
 groq
-mysql-connector-python
-
-# Production Web Server
 gunicorn
-
-# For loading .env files (recommended for local development)
-python-dotenv
